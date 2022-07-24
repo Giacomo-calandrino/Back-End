@@ -1,7 +1,5 @@
 package PlayerMultimediale;
 
-// creiamo una classe astratta a cui faranno riferimento tutte le altre classi
-
 public abstract class ElementoMultimediale {
 	
 	protected String titolo;

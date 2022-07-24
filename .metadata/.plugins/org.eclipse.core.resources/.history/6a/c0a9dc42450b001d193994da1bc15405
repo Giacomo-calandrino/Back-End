@@ -1,6 +1,6 @@
 package PlayerMultimediale;
 
-// creiamo la classe "Audio" che estende la classe astratta "ElementoMultimediale" e implementa l'interfaccia "Riproducibile"
+// creiamo la classe audio che estende la classe astratta "ElementoMultimediale" e implementa l'interfaccia "Riproducibile"
 
 public class Audio extends ElementoMultimediale implements Riproducibile {
 	
