@@ -1,0 +1,10 @@
+package PlayerMultimediale;
+
+public abstract class Program {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
