@@ -1,5 +1,0 @@
-package PlayerMultimediale;
-
-public interface Visualizzabile {
-
-}
