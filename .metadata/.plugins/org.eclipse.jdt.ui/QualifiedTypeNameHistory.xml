@@ -6,4 +6,6 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="it.epicode.entities.library.Elementi"/>
+    <fullyQualifiedTypeName name="it.epicode.entities.library.Elemento"/>
 </qualifiedTypeNameHistroy>

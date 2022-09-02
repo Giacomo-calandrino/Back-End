@@ -11,6 +11,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\hp\Desktop\Back-End\Workspace\ProgettoSettimanle0805"/>
+			<item value="C:\Users\hp\Desktop\Back-End\Workspace\CatalogoBibliograficoEsteso"/>
 			<item value="C:\Users\hp\Desktop\Back-End\Workspace\CatalogoBibliografico"/>
 		</list>
 	</section>
